@@ -16,6 +16,7 @@
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?from=wnel">大陆请点击进入动态网址</a><br/>
 微信如果提示：停止访问该网页<br/>
 请点击右上角，选择浏览器打开<br/>
+苹果用户用自带浏览器打开即可<br/>
   </tr>
   <tr>
       <td align=center>
