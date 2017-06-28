@@ -33,11 +33,6 @@
 下载安卓版更快更方便<br/>
   </tr>
   <tr>
-    <td align=center>
-<a target="_blank" href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogNews&from=wnel">网门头条</a><br/>
-    </td>
-  </tr>
-  <tr>
     <td align=center><img src="https://cloud.githubusercontent.com/assets/11880933/15631437/70d0a74e-259d-11e6-946f-6237b4b657bd.jpg"/></td>
   </tr>
   <tr>
