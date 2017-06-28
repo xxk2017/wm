@@ -5,6 +5,8 @@
   <tr>
 <td align=center>◆免费  ◆安全  ◆快速  ◆绿色  ◆高速视频<br/>
 推荐谷歌/火狐浏览器，国产浏览器易干扰<br/>
+https://chrome.cn.uptodown.com/android <br/>
+（谷歌浏览器安卓版 请下载安装）<br/>
        </td>
   </tr>
   <tr>
