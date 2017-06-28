@@ -13,6 +13,8 @@
   <tr>
     <td align=center>
 如打开慢，缓冲稍等或刷新<br/>
+  </tr>
+  <tr>
   <td align=center>请尝试不同入口，进入动态网址<br/>
       <a target="_blank" href="https://cdn.rawgit.com/ogate/up/master/oGates.htm?from=wnel">入口</a>
       <a target="_blank" href="https://s3.eu-west-2.amazonaws.com/ogatel/oGate.htm?from=wnel">入口</a>
