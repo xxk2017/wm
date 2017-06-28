@@ -5,8 +5,8 @@
   <tr>
 <td align=center>◆免费  ◆安全  ◆快速  ◆绿色  ◆高速视频<br/>
 推荐谷歌/火狐浏览器，国产浏览器易干扰<br/>
-<a href="https://chrome.cn.uptodown.com/androidl">（谷歌浏览器安卓版 ）</a><br/>
-<a href="https://google-chrome.cn.uptodown.com/windows">win版版 </a><br/>
+<a href="https://chrome.cn.uptodown.com/androidl">（谷歌浏览器安卓版 </a>
+<a href="https://google-chrome.cn.uptodown.com/windows">win版版 </a>
 <a href="https://cn.uptodown.com/iphone">苹果版）</a><br/>
        </td>
   </tr>
