@@ -32,9 +32,9 @@
   </tr>
   <tr>
       <td align=center>
-2017网民翻墙最人气软件<br/>
+2017年网民翻墙最人气软件<br/>
 安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk?og">https://git.io/ogatea</a><br/>
-下载安卓版更快更方便<br/>
+下载网门安卓版更快更方便<br/>
   </tr>
   <tr>
     <td align=center><img src="https://cloud.githubusercontent.com/assets/11880933/15631437/70d0a74e-259d-11e6-946f-6237b4b657bd.jpg"/></td>
