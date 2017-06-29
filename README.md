@@ -1,6 +1,4 @@
 <table>
-<td align=left>本页面 https://git.io/vQlFt 
-  </tr>
   <tr>
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/ogate6.jpg" /></td>
   </tr>
