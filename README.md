@@ -78,7 +78,7 @@ https://git.io/88<br/>
   </tr>
   <tr>
 <td align=left>全球热点，震撼各国<br/>
-大陆网民请使用谷歌浏览器<br/>
+大陆网民请复制到谷歌浏览器打开<br/>
 <a href="https://chrome.cn.uptodown.com/android">谷歌安卓版、 </a>
 <a href="https://google-chrome.cn.uptodown.com/windows">win版、 </a>
 <a href="https://chrome.cn.uptodown.com/iphone">苹果版、</a>
@@ -93,6 +93,6 @@ https://git.io/88<br/>
 ◆https://git.io/vQgT2 全球热播纪录片<br/> 
 ◆https://git.io/vQgT6 致有缘人的一封信<br/>
 ◆https://git.io/vQgT9 西藏局势真实新闻<br/>
-   </tr>
+  </tr>
   <tr>
 </table>     
