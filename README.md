@@ -83,6 +83,7 @@ https://git.io/88<br/>
 ◆https://git.io/vQgTY <br/>
 全球近3亿人的选择，三退保平安<br/> 
 ◆https://git.io/vQgT8 全球真实新闻<br/> 
+大纪元、新唐人、美国之音、自由亚洲
 ◆https://git.io/vQgT2 全球热播纪录片<br/> 
 ◆https://git.io/vQgT6 致有缘人的一封信<br/>
 ◆https://git.io/vQgT9 西藏局势真实新闻<br/>
