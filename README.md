@@ -78,6 +78,12 @@ https://git.io/88<br/>
   </tr>
   <tr>
 <td align=left>全球热点，震撼各国<br/>
+大陆网民请使用谷歌浏览器<br/>
+<a href="https://chrome.cn.uptodown.com/android">谷歌安卓版、 </a>
+<a href="https://google-chrome.cn.uptodown.com/windows">win版、 </a>
+<a href="https://chrome.cn.uptodown.com/iphone">苹果版、</a>
+<a href="https://google-chrome.cn.uptodown.com/mac">Mac版</a><br/>
+国产浏览器干扰浏览请卸载<br/>
 ◆https://git.io/vQgU9 九评共产党<br/>
 ◆https://git.io/vQgTk 法轮功真相<br/> 
 ◆https://git.io/vQgTY <br/>
