@@ -77,7 +77,7 @@ https://git.io/168<br/>
 https://git.io/88<br/>
   </tr>
   <tr>
-<td align=left>全球热点，震撼各国<br/>  
+<td align=left>全球热点，震撼各国<br/>
 ◆https://git.io/vQgU9 九评共产党<br/>
 ◆https://git.io/vQgTk 法轮功真相<br/> 
 ◆https://git.io/vQgTY <br/>
