@@ -52,9 +52,9 @@
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E6%8C%87%E5%8D%97%E6%A1%86.jpg"/></td>
     </tr>
   <tr>
-<td align=center>无界浏览（热门安卓VPN）<br/>
-https://git.io/v6836
-<a href="https://git.io/vEJlj">下载</a><br/>
+<td align=center>无界浏览（全球热门VPN）<br/>
+https://git.io/v6836 （安卓版）<br/>
+https://git.io/vEJlj （电脑版）<br/>
   </tr>
   <tr>
 </table>    
