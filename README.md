@@ -54,7 +54,7 @@
   <tr>
 <td align=center>无界浏览（热门安卓VPN）<br/>
 https://git.io/v6836
-<a target="_blank" href="https://git.io/vEJlj">下载</a><br/>
+<a href="https://git.io/vEJlj">下载</a><br/>
   </tr>
   <tr>
 </table>    
