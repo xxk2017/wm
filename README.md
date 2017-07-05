@@ -15,7 +15,8 @@
 <td align=center>网门 網門<br/>
 欢迎来到固定页面，请收藏浏览器<br/>
 ❤ https://git.io/ogate ❤ <br/>
-  </tr>
+适合苹果、安卓、平板、电脑<br/>
+  </tr>
   <tr>
     <td align=center>
 如打开慢，缓冲稍等或刷新<br/>
