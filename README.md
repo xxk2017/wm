@@ -56,7 +56,6 @@
 https://git.io/v6836 （安卓版）<br/>
 https://git.io/vEJlj （电脑版）<br/>
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?name=ogTool&from=wnel-xw">◆全球翻墙软件大全及最佳浏览器</a><br/> 
- </tr>
   <tr>
   <td align=left>全球其他最热门网站，请收藏<br/>
 大陆网民请使用谷歌浏览器<br/>
