@@ -54,7 +54,7 @@
     </tr>
   <tr>
 <td align=left>
-◆全球最佳翻墙软件大全及最佳浏览器<br/> 
+◆全球最人气翻墙软件及最佳浏览器<br/> 
 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk?og">◆网门（安卓版）热门推荐</a><br/> 
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogTool&from=wnel">◆谷歌浏览器（安卓版、电脑版）</a><br/> 
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogTool&from=wnel">◆自由门（安卓版、电脑版）</a><br/> 
