@@ -53,7 +53,7 @@
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E6%8C%87%E5%8D%97%E6%A1%86.jpg"/></td>
     </tr>
   <tr>
-<td align=left>无界浏览（全球热门VPN）<br/>
+<td align=left>无界浏览（全球热门免费VPN）<br/>
 https://git.io/v6836 （安卓版）<br/>
 https://git.io/vEJlj （电脑版）<br/>
 ◆全球最佳翻墙软件大全及最佳浏览器<br/> 
@@ -62,7 +62,11 @@ https://git.io/vEJlj （电脑版）<br/>
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogTool&from=wnel">◆无界浏览（安卓版、电脑版）</a><br/> 
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogTool&from=wnel">◆新唐人电视安卓（手机版）</a><br/> 
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogTool&from=wnel">◆爱博电视（电脑版）</a><br/> 
-  <tr>
+◆翻墙小技巧：<br/>
+苹果用户，用自带浏览器收藏https://git.io/ogate 随时浏览全球真实资讯<br/>
+安卓、电脑用户，用谷歌浏览器收藏https://git.io/ogate 随时浏览全球真实资讯<br/>
+安卓、电脑用户，安装成功打开无界或自由门后，可用谷歌浏览器打开全球任意网站<br/>
+   <tr>
   <td align=left>全球其他最热门网站，请收藏<br/>
 大陆网民请使用谷歌浏览器<br/>
 <a href="https://chrome.cn.uptodown.com/android">谷歌安卓版、 </a>
