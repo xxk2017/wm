@@ -67,17 +67,18 @@ https://git.io/vEJlj （电脑版）<br/>
 ◆翻墙小技巧：<br/>
 II苹果用户，用自带浏览器收藏https://git.io/ogate 随时浏览全球真实资讯<br/>
 II安卓、电脑用户，用谷歌浏览器收藏https://git.io/ogate 随时浏览全球真实资讯<br/>
-II安卓、电脑用户，安装成功打开无界或自由门后，可在软件内打开推特、脸书、youtube等
+II安卓、电脑用户，安装成功打开无界或自由门后，可在软件内打开推特、脸书、youtube等<br/>
 II安卓、电脑用户，安装成功打开无界或自由门后，可用谷歌浏览器打开全球任意网站<br/>
  </tr>
   <tr>
   <td align=left>全球其他最热门网站，请收藏<br/>
-大陆网民请使用谷歌浏览器<br/>
+◆大陆网民请使用谷歌浏览器<br/>
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogTool&from=wnel">◆谷歌浏览器（安卓版、电脑版）</a><br/> 
 <a href="https://chrome.cn.uptodown.com/android">谷歌安卓版、 </a>
 <a href="https://google-chrome.cn.uptodown.com/windows">win版、 </a>
 <a href="https://chrome.cn.uptodown.com/iphone">苹果版、</a>
 <a href="https://google-chrome.cn.uptodown.com/mac">Mac版</a><br/>
-国产浏览器干扰浏览请卸载<br/>
+◆国产浏览器干扰浏览请卸载<br/>
 https://git.io/free 动态网<br/>
 https://git.io/jww 禁闻网<br/>
 https://git.io/freesky 自由天空<br/>
@@ -91,7 +92,7 @@ https://git.io/168<br/>
 https://git.io/88<br/>
   </tr>
   <tr>
-<td align=left>全球热点，震撼各国<br/>
+<td align=left>❤全球热点，热传各国，震撼世人<br/>
 大陆网民请复制到谷歌浏览器打开<br/>
 <a href="https://chrome.cn.uptodown.com/android">谷歌安卓版、 </a>
 <a href="https://google-chrome.cn.uptodown.com/windows">win版、 </a>
