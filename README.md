@@ -9,16 +9,16 @@
 <a href="https://google-chrome.cn.uptodown.com/windows">win版、 </a>
 <a href="https://chrome.cn.uptodown.com/iphone">苹果版、</a>
 <a href="https://google-chrome.cn.uptodown.com/mac">Mac版</a><br/>
-       </td>
+   </td>
   </tr>
   <tr>
 <td align=center>网门 網門<br/>
 欢迎来到固定页面，请收藏浏览器<br/>
 ❤ https://git.io/ogate ❤ <br/>
 适合苹果、安卓、平板、电脑<br/>
-  </tr>
-  <tr>
-    <td align=center>
+</tr>
+<tr>
+<td align=center>
 如打开慢，缓冲稍等或刷新<br/>
   </tr>
   <tr>
