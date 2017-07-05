@@ -55,7 +55,12 @@
 <td align=left>无界浏览（全球热门VPN）<br/>
 https://git.io/v6836 （安卓版）<br/>
 https://git.io/vEJlj （电脑版）<br/>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogTool&from=wnel">◆全球翻墙软件大全及最佳浏览器</a><br/> 
+◆全球最佳翻墙软件大全及最佳浏览器<br/> 
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogTool&from=wnel">◆谷歌浏览器（安卓版、电脑版）</a><br/> 
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogTool&from=wnel">◆自由门（安卓版、电脑版）</a><br/> 
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogTool&from=wnel">◆无界浏览（安卓版、电脑版）</a><br/> 
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogTool&from=wnel">◆新唐人电视安卓（手机版）</a><br/> 
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogTool&from=wnel">◆爱博电视（电脑版）</a><br/> 
   <tr>
   <td align=left>全球其他最热门网站，请收藏<br/>
 大陆网民请使用谷歌浏览器<br/>
