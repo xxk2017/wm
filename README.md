@@ -54,30 +54,36 @@
     </tr>
   <tr>
 <td align=left>
-◆全球最人气翻墙软件及最佳浏览器<br/> 
+◆全球最人气翻墙软件<br/> 
 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk?og">◆网门（安卓版）热门推荐</a><br/> 
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816725&from=wnel">◆谷歌浏览器（安卓版）</a><br/>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816726&from=wnel">◆谷歌浏览器（电脑版）</a><br/> 
-<a href="https://chrome.cn.uptodown.com/android">◆谷歌安卓版、 </a>
-<a href="https://google-chrome.cn.uptodown.com/windows">win版、 </a>
-<a href="https://chrome.cn.uptodown.com/iphone">苹果版、</a>
-<a href="https://google-chrome.cn.uptodown.com/mac">Mac版</a><br/>
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816729_1_1&from=wnel">◆自由门（安卓版）</a><br/> 
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816729_2_1&from=wnel">◆自由门（电脑版）</a><br/> 
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816767_1_1&from=wnel">◆无界浏览（安卓版）</a><br/> 
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816767_2_1&from=wnel">◆无界浏览（电脑版）</a><br/> 
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816730&from=wnel">◆新唐人电视（安卓版）</a><br/> 
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816731&from=wnel">◆爱博电视（电脑版）</a><br/> 
-无界浏览（全球热门免费VPN）<br/>
+◆全球最佳浏览器——大陆网民必备<br/> 
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816725&from=wnel">◆谷歌浏览器（安卓版）</a><br/>
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816726&from=wnel">◆谷歌浏览器（电脑版）</a><br/> 
+<a href="https://chrome.cn.uptodown.com/android">◆谷歌安卓版、 </a>
+<a href="https://google-chrome.cn.uptodown.com/windows">win版、 </a>
+<a href="https://chrome.cn.uptodown.com/iphone">苹果版、</a>
+<a href="https://google-chrome.cn.uptodown.com/mac">Mac版</a><br/>
+国内浏览器会干扰浏览，也会监控隐私，建议卸载<br/>
+◆全球热门免费VPN：
+自由门<br/>
+自由门专业版 https://git.io/fgp <br/>
+自由门安卓版 https://git.io/fgma <br/>
+无界浏览<br/>
 https://git.io/v6836 （安卓版）<br/>
 https://git.io/vEJlj （电脑版）<br/>
 ◆翻墙小技巧：<br/>
 II苹果用户，用自带浏览器收藏https://git.io/ogate 随时浏览全球真实资讯<br/>
 II苹果免费翻墙方法大全 
 https://git.io/vQasX <br/>
-II安卓、电脑用户，用谷歌浏览器收藏https://git.io/ogate 随时浏览全球真实资讯<br/>
-II安卓、电脑用户，安装成功打开无界或自由门后，可在软件内打开推特、脸书、youtube等<br/>
-II安卓、电脑用户，安装成功打开无界或自由门后，可用谷歌浏览器打开全球任意网站<br/>
+II安卓、电脑用户，用谷歌浏览器收藏 https://git.io/ogate 随时浏览全球真实资讯<br/>
+II安卓、电脑用户，安装并成功打开无界或自由门后，可在软件内打开推特、脸书、youtube等<br/>
+II安卓、电脑用户，安装并成功打开无界或自由门后，可用谷歌浏览器打开全球任意网站<br/>
 II苹果用户最佳免费翻墙方法：https://git.io/vQo02
  </tr>
   <tr>
