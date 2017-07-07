@@ -58,7 +58,7 @@
 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk?og">◆网门（安卓版）热门推荐</a><br/> 
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816725&from=wnel">◆谷歌浏览器（安卓版）</a><br/>
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816726&from=wnel">◆谷歌浏览器（电脑版）</a><br/> 
-<a href="https://chrome.cn.uptodown.com/android">谷歌安卓版、 </a>
+<a href="https://chrome.cn.uptodown.com/android">◆谷歌安卓版、 </a>
 <a href="https://google-chrome.cn.uptodown.com/windows">win版、 </a>
 <a href="https://chrome.cn.uptodown.com/iphone">苹果版、</a>
 <a href="https://google-chrome.cn.uptodown.com/mac">Mac版</a><br/>
