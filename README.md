@@ -77,12 +77,10 @@
 无界电脑版 https://git.io/vEJlj <br/>
 ◆翻墙小技巧：<br/>
 II苹果用户，用自带浏览器收藏https://git.io/ogate 随时浏览全球真实资讯<br/>
-II苹果免费翻墙方法大全 
-https://git.io/vQasX <br/>
+II苹果用户最佳免费翻墙方法：https://git.io/vQo02<br/>
 II安卓、电脑用户，用谷歌浏览器收藏 https://git.io/ogate 随时浏览全球真实资讯<br/>
 II安卓、电脑用户，安装并成功打开无界或自由门后，可在软件内打开推特、脸书、youtube等<br/>
 II安卓、电脑用户，安装并成功打开无界或自由门后，可用谷歌浏览器打开全球任意网站<br/>
-II苹果用户最佳免费翻墙方法：https://git.io/vQo02<br/>
 II更多翻墙大全 https://git.io/jww<br/>
  </tr>
   <tr>
