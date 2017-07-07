@@ -54,7 +54,7 @@
     </tr>
   <tr>
 <td align=left>
-◆全球免费翻墙最人气：网门<br/> 
+◆全球免费翻墙最人气网站：网门<br/> 
 网门网页版 https://git.io/ogate 热门推荐<br/>
 网门安卓版 https://git.io/ogatea<br/>
 网门桌面版 https://git.io/ogatew<br/>
