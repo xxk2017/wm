@@ -54,8 +54,12 @@
     </tr>
   <tr>
 <td align=left>
+◆全球免费翻墙最人气：网门<br/> 
+<a href="https://git.io/ogate">◆网门网页版 热门推荐</a><br/> 
+<a href="https://git.io/ogatea">◆网门安卓版 </a><br/> 
+<a href="https://git.io/ogatew">◆网门桌面版 </a><br/>
+<a href="https://git.io/ogatecw">◆谷歌桌面版</a><br/> 
 ◆全球最人气翻墙软件<br/> 
-<a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk?og">◆网门（安卓版）热门推荐</a><br/> 
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816729_1_1&from=wnel">◆自由门（安卓版）</a><br/> 
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816729_2_1&from=wnel">◆自由门（电脑版）</a><br/> 
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816767_1_1&from=wnel">◆无界浏览（安卓版）</a><br/> 
