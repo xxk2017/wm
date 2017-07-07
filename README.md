@@ -55,10 +55,10 @@
   <tr>
 <td align=left>
 ◆全球免费翻墙最人气：网门<br/> 
-<a href="https://git.io/ogate">◆网门网页版 热门推荐</a><br/> 
-<a href="https://git.io/ogatea">◆网门安卓版 </a><br/> 
-<a href="https://git.io/ogatew">◆网门桌面版 </a><br/>
-<a href="https://git.io/ogatecw">◆谷歌桌面版</a><br/> 
+网门网页版 https://git.io/ogate 热门推荐<br/>
+网门安卓版 https://git.io/ogatea<br/>
+网门桌面版 https://git.io/ogatew<br/>
+谷歌桌面版 https://git.io/ogatecw<br/>
 ◆全球最人气翻墙软件<br/> 
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816729_1_1&from=wnel">◆自由门（安卓版）</a><br/> 
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816729_2_1&from=wnel">◆自由门（电脑版）</a><br/> 
