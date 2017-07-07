@@ -75,8 +75,8 @@
 自由门专业版 https://git.io/fgp <br/>
 自由门安卓版 https://git.io/fgma <br/>
 无界浏览<br/>
-https://git.io/v6836 （安卓版）<br/>
-https://git.io/vEJlj （电脑版）<br/>
+无界安卓版 https://git.io/v6836 <br/>
+无界电脑版 https://git.io/vEJlj <br/>
 ◆翻墙小技巧：<br/>
 II苹果用户，用自带浏览器收藏https://git.io/ogate 随时浏览全球真实资讯<br/>
 II苹果免费翻墙方法大全 
