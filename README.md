@@ -71,10 +71,8 @@
 <a href="https://google-chrome.cn.uptodown.com/mac">Mac版</a><br/>
 国内浏览器会干扰浏览，也会监控隐私，建议卸载<br/>
 ◆全球热门免费VPN：<br/>
-自由门<br/>
 自由门专业版 https://git.io/fgp <br/>
 自由门安卓版 https://git.io/fgma <br/>
-无界浏览<br/>
 无界安卓版 https://git.io/v6836 <br/>
 无界电脑版 https://git.io/vEJlj <br/>
 ◆翻墙小技巧：<br/>
