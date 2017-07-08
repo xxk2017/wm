@@ -3,6 +3,11 @@
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E7%BD%91%E9%97%A8%E5%BE%AE%E4%BF%A1%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.jpg" /></td>
   </tr>
   <tr>
+<td align=left>本页短网址：https://git.io/vQogU<br/>
+本页面如遇打不开，请复制上面网址到谷歌浏览器<br/>
+苹果用户直接复制到苹果自带浏览器打开<br/>
+</tr>
+<tr>
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/ogate6.jpg" /></td>
   </tr>
   <tr>
@@ -135,9 +140,6 @@ https://git.io/88<br/>
 ◆https://git.io/vQgme 铁证如山 超越纳粹<br/>
 ◆https://git.io/vQgms 大卫战红魔<br/>
 ◆https://git.io/vQgqs 致我们心中的善<br/>
-</tr>
-<tr>
- <td align=left>本页短网址：https://git.io/vQogU<br/>
 </tr>
 <tr>
 </table>
