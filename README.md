@@ -73,7 +73,7 @@
 <a href="https://google-chrome.cn.uptodown.com/windows">win版、 </a>
 <a href="https://chrome.cn.uptodown.com/iphone">苹果版、</a>
 <a href="https://google-chrome.cn.uptodown.com/mac">Mac版</a><br/>
-◆翻墙最佳浏览器：谷歌浏览器<br/>
+◆翻墙最佳浏览器：谷歌浏览器大全<br/>
 https://git.io/vQowA<br/>
 国内浏览器会干扰屏蔽，也会监控隐私，建议卸载<br/>
 ◆全球热门免费VPN：<br/>
