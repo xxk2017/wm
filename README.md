@@ -10,6 +10,7 @@
 ◆谷歌浏览器windows版https://google-chrome.cn.uptodown.com/windows <br/>
 ◆谷歌浏览器苹果版https://chrome.cn.uptodown.com/iphone <br/>
 ◆谷歌浏览器Mac版https://google-chrome.cn.uptodown.com/mac <br/>
+国产浏览器监控网民、屏蔽网页、广告垃圾多，请卸载<br/>
 </tr>
 <tr>
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/ogate6.jpg" /></td>
