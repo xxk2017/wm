@@ -6,10 +6,10 @@
 <td align=left>本页短网址：https://git.io/vQogU<br/>
 本页面如遇打不开，请复制上面网址到谷歌浏览器<br/>
 苹果用户直接复制到苹果自带浏览器打开<br/>
-https://chrome.cn.uptodown.com/android ◆谷歌浏览器安卓版<br/>
-https://google-chrome.cn.uptodown.com/windows ◆谷歌浏览器windows版<br/>
-https://chrome.cn.uptodown.com/iphone ◆谷歌浏览器苹果版<br/>
-https://google-chrome.cn.uptodown.com/mac ◆谷歌浏览器Mac版<br/>
+◆谷歌浏览器安卓版https://chrome.cn.uptodown.com/android <br/>
+◆谷歌浏览器windows版https://google-chrome.cn.uptodown.com/windows <br/>
+◆谷歌浏览器苹果版https://chrome.cn.uptodown.com/iphone <br/>
+◆谷歌浏览器Mac版https://google-chrome.cn.uptodown.com/mac <br/>
 </tr>
 <tr>
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/ogate6.jpg" /></td>
