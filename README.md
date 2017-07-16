@@ -4,12 +4,6 @@
   </tr>
   <tr>
 <td align=left>本页短网址：https://git.io/vQogU<br/>
-<table>
-  <tr>
-    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E7%BD%91%E9%97%A8%E5%BE%AE%E4%BF%A1%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.jpg" /></td>
-  </tr>
-  <tr>
-<td align=left>本页短网址：https://git.io/vQogU<br/>
 ◆翻墙永久网址：https://git.io/ogate （请收藏）<br/>
 本页如遇打不开，请复制上面网址到谷歌浏览器<br/>
 苹果用户请直接复制到苹果自带Safari浏览器打开<br/>
