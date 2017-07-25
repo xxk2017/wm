@@ -38,11 +38,12 @@
   </tr>
   <tr>
   <td align=center>请尝试不同入口，进入动态网址<br/>
-      <a target="_blank" href="https://s3.eu-west-2.amazonaws.com/ogatel/oGate.htm?from=wnel">入口</a>
-      <a target="_blank" href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?from=wnel">入口</a>
-      <a target="_blank" href="https://s3-ap-southeast-2.amazonaws.com/ogatey/oGate.htm?from=wnel">入口</a><br/>
-      <a target="_blank" href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?from=wnel">入口</a>
-      <a target="_blank" href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?from=wnel">入口</a><br/>
+      <a href="https://rawgit.com/onorm/up/master/oGate.htm?from=wnel">入口</a>
+      <a href="https://s3.amazonaws.com/ogate/oGate.htm?from=wnel">入口</a>
+      <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?from=wnel">入口</a><br/>
+      <a href="https://s3.eu-west-2.amazonaws.com/ogatel/oGate.htm?from=wnel">入口</a>
+      <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?from=wnel">入口</a>
+      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?from=wnel">入口</a><br/>
 微信如果提示：停止访问该网页<br/>
 请点击右上角，选择浏览器打开<br/>
 苹果用户复制到自带浏览器打开<br/>
