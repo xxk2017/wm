@@ -77,8 +77,6 @@ https://github.com/ogate2/ogate<br/>
 ◆全球免费翻墙最人气网站：网门<br/> 
 网门网页版 https://git.io/ogate2 热门推荐<br/>
 网门安卓版 http://6du.in/111rXtk<br/>
-网门桌面版 https://git.io/ogatew<br/>
-谷歌桌面版 https://git.io/ogatecw<br/>
 ◆全球最人气翻墙软件<br/> 
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816729_1_1&from=wnel">◆自由门（安卓版）</a><br/> 
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816729_2_1&from=wnel">◆自由门（电脑版）</a><br/> 
@@ -86,7 +84,7 @@ https://github.com/ogate2/ogate<br/>
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816767_2_1&from=wnel">◆无界浏览（电脑版）</a><br/> 
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816730&from=wnel">◆新唐人电视（安卓版）</a><br/> 
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816731&from=wnel">◆爱博电视（电脑版）</a><br/> 
-◆全球最佳浏览器——大陆网民必备<br/> 
+◆谷歌：全球最佳浏览器——大陆网民必备<br/> 
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816725&from=wnel">◆谷歌浏览器（安卓版）</a><br/>
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816726&from=wnel">◆谷歌浏览器（电脑版）</a><br/> 
 <a href="https://chrome.cn.uptodown.com/android">◆谷歌安卓版、 </a>
