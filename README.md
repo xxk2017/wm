@@ -93,7 +93,7 @@ https://github.com/ogate2/ogate<br/>
 <a href="https://google-chrome.cn.uptodown.com/mac">Mac版</a><br/>
 ◆翻墙最佳浏览器：谷歌浏览器大全<br/>
 https://git.io/vQowA<br/>
-国内浏览器会干扰屏蔽，也会监控隐私，建议卸载<br/>
+国内浏览器会干扰屏蔽，监控隐私，建议卸载<br/>
 ◆全球热门免费VPN：<br/>
 自由门安卓版 https://git.io/fgma <br/>
 自由门电脑版 https://git.io/fgp <br/>
