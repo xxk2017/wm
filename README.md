@@ -55,7 +55,7 @@ https://github.com/ogate2/ogate<br/>
   <tr>
       <td align=center>
 2017年网民翻墙最人气软件<br/>
-安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk?og">https://git.io/ogatea</a><br/>
+安卓版http://6du.in/111rXun<br/>
 下载网门安卓版更快更方便<br/>
   </tr>
   <tr>
@@ -76,7 +76,7 @@ https://github.com/ogate2/ogate<br/>
 <td align=left>
 ◆全球免费翻墙最人气网站：网门<br/> 
 网门网页版 https://git.io/ogate2 热门推荐<br/>
-网门安卓版 https://git.io/ogatea<br/>
+网门安卓版 http://6du.in/111rXtk<br/>
 网门桌面版 https://git.io/ogatew<br/>
 谷歌桌面版 https://git.io/ogatecw<br/>
 ◆全球最人气翻墙软件<br/> 
