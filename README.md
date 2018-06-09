@@ -9,10 +9,6 @@ https://github.com/ogate2/ogate<br/>
 本页如屏蔽，请将网址输入谷歌浏览器<br/>
 苹果用户请输入网址到苹果浏览器打开<br/>
 网民必备浏览器：谷歌浏览器（请安装）<br/>
-<a href="https://chrome.cn.uptodown.com/android">◆谷歌浏览器安卓版 </a><br/>
-<a href="https://google-chrome.cn.uptodown.com/windows">◆谷歌浏览器电脑版 </a><br/>
-<a href="https://chrome.cn.uptodown.com/iphone">◆谷歌浏览器苹果版</a><br/>
-<a href="https://google-chrome.cn.uptodown.com/mac">◆谷歌浏览器Mac版</a><br/>
 国产浏览器监控/屏蔽网页/广告多/请卸载<br/>
 </tr>
 <tr>
@@ -21,10 +17,6 @@ https://github.com/ogate2/ogate<br/>
   <tr>
 <td align=center>◆免费  ◆安全  ◆快速  ◆绿色  ◆高速视频<br/>
 推荐谷歌/火狐浏览器/国产浏览器易干扰<br/>
-<a href="https://chrome.cn.uptodown.com/android">谷歌安卓版、 </a>
-<a href="https://google-chrome.cn.uptodown.com/windows">win版、 </a>
-<a href="https://chrome.cn.uptodown.com/iphone">苹果版、</a>
-<a href="https://google-chrome.cn.uptodown.com/mac">Mac版</a><br/>
    </td>
   </tr>
   <tr>
@@ -88,10 +80,6 @@ https://git.io/ogatea2<br/>
 ◆谷歌：全球最佳浏览器——大陆网民必备<br/> 
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816725&from=wnel">◆谷歌浏览器（安卓版）</a><br/>
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816726&from=wnel">◆谷歌浏览器（电脑版）</a><br/> 
-<a href="https://chrome.cn.uptodown.com/android">◆谷歌安卓版、 </a>
-<a href="https://google-chrome.cn.uptodown.com/windows">win版、 </a>
-<a href="https://chrome.cn.uptodown.com/iphone">苹果版、</a>
-<a href="https://google-chrome.cn.uptodown.com/mac">Mac版</a><br/>
 ◆翻墙最佳浏览器：谷歌浏览器大全<br/>
 https://git.io/vQowA<br/>
 国内浏览器会干扰屏蔽，监控隐私，建议卸载<br/>
@@ -112,10 +100,6 @@ II更多翻墙大全 https://git.io/jww<br/>
   <td align=left>全球其他最热门网站，请收藏<br/>
 ◆大陆网民请使用谷歌浏览器<br/>
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogTool&from=wnel">◆谷歌浏览器（安卓版、电脑版）</a><br/> 
-<a href="https://chrome.cn.uptodown.com/android">◆谷歌安卓版、 </a>
-<a href="https://google-chrome.cn.uptodown.com/windows">win版、 </a>
-<a href="https://chrome.cn.uptodown.com/iphone">苹果版、</a>
-<a href="https://google-chrome.cn.uptodown.com/mac">Mac版</a><br/>
 ◆国产浏览器干扰浏览请卸载<br/>
 https://git.io/free99 动态网<br/>
 https://git.io/jww 禁闻网<br/>
@@ -132,10 +116,6 @@ https://git.io/88<br/>
   <tr>
 <td align=left>❤全球热点，热传各国，震撼世人<br/>
 大陆网民请复制到谷歌浏览器打开<br/>
-<a href="https://chrome.cn.uptodown.com/android">谷歌安卓版、 </a>
-<a href="https://google-chrome.cn.uptodown.com/windows">win版、 </a>
-<a href="https://chrome.cn.uptodown.com/iphone">苹果版、</a>
-<a href="https://google-chrome.cn.uptodown.com/mac">Mac版</a><br/>
 国产浏览器干扰浏览请卸载<br/>
 ◆https://git.io/vQgU9 九评共产党<br/>
 ◆https://git.io/vQgTk 法轮功真相<br/> 
