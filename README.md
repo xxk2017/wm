@@ -71,6 +71,7 @@ https://git.io/ogatea2<br/>
 网门网页版 https://git.io/ogate2 热门推荐<br/>
 网门安卓版 https://git.io/ogatea2<br/>
 网门电脑版 http://got.io/ogatew2
+
 ◆全球最人气翻墙软件<br/> 
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816729_1_1&from=wnel">◆自由门（安卓版）</a><br/> 
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816729_2_1&from=wnel">◆自由门（电脑版）</a><br/> 
